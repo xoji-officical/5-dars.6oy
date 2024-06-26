@@ -1,0 +1,28 @@
+.hh3{
+    color: black;
+    position: absolute;
+    margin: 0 auto;
+    left: 0%;
+    right: 0%;
+}
+.imgg{
+    width: 190px;
+}
+
+.lls{
+    width: 200px;
+    height: 250px;
+    display: inline-block;
+    position: relative;
+    box-shadow: 2px 2px 20px 2px black  ;
+    margin: 15px;
+    padding: 18px; 
+    text-align: center;
+    transition: 0.3s;
+
+}
+.lls:hover{
+    transform: rotate(-2deg)  scale(1.1);
+    box-shadow: 4px 4px 20px 4px black ;
+
+}
